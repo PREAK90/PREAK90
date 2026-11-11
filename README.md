@@ -1,4 +1,4 @@
-# Hi there, I'm Sathaporn Talabthaisong 👋
+# Hi there, I'm Sathaporn  👋
 
 ### 🧑‍💻 About Me
 
