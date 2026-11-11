@@ -35,13 +35,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=PREAK90&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PREAK90&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
+<img src="https://github-readme-stats-fast.vercel.app/api?username=phuwanetsaptharaphak&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phuwanetsaptharaphak&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PREAK90&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phuwanetsaptharaphak&theme=tokyonight&hide_border=true%22 width="50%" />
+</div>
+ 
 
 </div>
 
