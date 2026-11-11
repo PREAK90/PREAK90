@@ -49,15 +49,7 @@
 
 <h3 align="center">📫 Connect with Me</h3>
 
-<p align="center">
-  <a href="mailto:68021399@up.ac.th">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
-<!--
-เพิ่ม LinkedIn / Facebook ได้โดยลบเครื่องหมายคอมเมนต์ แล้วใส่ลิงก์จริง
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-PROFILE)
--->
+
+
