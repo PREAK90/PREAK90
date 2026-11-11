@@ -7,7 +7,6 @@
 - 🎯 Current Goal: Learning Frontend Development and Interactive Web Experiences
 - 💬 Ask me about **Web Design, HTML/CSS, and JavaScript**
 
----
 
 ### 🛠️ Tech Stack & Tools
 
